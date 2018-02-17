@@ -1,0 +1,23 @@
+{
+  "name": "marketdata-nodejs-neutrino",
+  "version": "1.0.0",
+  "description": "stock market data tracking and analytics app",
+  "main": "index.js",
+  "scripts": {
+    "test": "kill"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjh5153/marketdata-nodejs-Neutrino.git"
+  },
+  "keywords": [
+    "market",
+    "data"
+  ],
+  "author": "Joel Hess",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjh5153/marketdata-nodejs-Neutrino/issues"
+  },
+  "homepage": "https://github.com/mjh5153/marketdata-nodejs-Neutrino#readme"
+}
